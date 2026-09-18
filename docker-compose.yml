@@ -1,6 +1,6 @@
-services:
+﻿services:
   frontend:
-    container_name: aptFrontend
+    container_name: pokeFrontend
     build:
       context: .
       dockerfile: Dockerfile

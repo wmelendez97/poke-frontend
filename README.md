@@ -1,6 +1,16 @@
-# APT Web - Frontend
+﻿# POKE Web - Frontend
 
-_Este proyecto contiene el frontend de APT Web_
+_Este proyecto contiene el frontend de POKE Web_
+
+---
+
+## Repositorio
+
+[https://github.com/wmelendez97/poke-frontend](https://github.com/wmelendez97/poke-frontend)
+
+## Backend del proyecto
+
+[https://github.com/wmelendez97/poke-backend](https://github.com/wmelendez97/poke-backend)
 
 ---
 
@@ -51,8 +61,8 @@ Vite ya viene configurado dentro del proyecto como dependencia de desarrollo, no
 ##### Instalación del proyecto 🔧
 
 ```bash
-$ git clone https://github.com/wmelendez97/apt-frontend.git
-$ cd apt-frontend
+$ git clone https://github.com/wmelendez97/poke-frontend.git
+$ cd poke-frontend
 $ pnpm i
 ```
 
