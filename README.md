@@ -2,6 +2,18 @@
 
 _Este proyecto contiene el frontend de POKE Web_
 
+## Objetivo del aplicativo
+
+Poke permite explorar y consultar información sobre Pokémon mediante un frontend React conectado al backend del proyecto. El backend expone una API que consume PokeAPI y mantiene una caché local de información consultada.
+
+Las funciones expuestas por el backend incluyen autenticación, catálogo paginado, búsqueda y detalle de Pokémon, consulta de tipos, habilidades, movimientos e historial de búsquedas. Este alcance orienta el desarrollo del frontend; no implica que todas sus pantallas ya estén implementadas.
+
+---
+
+## Diseño visual
+
+El objetivo funcional, los patrones de interfaz de las capturas y la paleta Pokémon adaptada para Poke están documentados en [docs/diseno-visual.md](../../docs/diseno-visual.md). La guía conserva las reglas de composición, tipografía y espaciado de las referencias y define su aplicación al catálogo, las fichas, los tipos y el historial.
+
 ---
 
 ## Repositorio
